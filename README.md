@@ -1,2 +1,4 @@
 # simple-calculator
-calculator web app written in react
+A project to improve my React skills. 
+
+This is a web application written in react, that functions as a calculator. No additional libraries used
